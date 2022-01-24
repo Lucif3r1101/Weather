@@ -58,7 +58,10 @@ public class EntertainmentFragment extends Fragment {
         ApiUtilities.getApiInterface().getCategoryNews(country,category,100,API_KEY).enqueue(new Callback<News>() {
             @Override
             public void onResponse(Call<News> call, Response<News> response) {
-
+                if(response.isSuccessful()){
+                    modalClassArrayList.addAll(response.body().getArticles());
+                    adapter.notifyDataSetChanged();
+                }
             }
 
             @Override

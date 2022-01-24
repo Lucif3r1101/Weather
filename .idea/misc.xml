@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Project Home/WeatherWithYou/app/src/main/res/layout/activity_main.xml" value="0.386468952734013" />
+        <entry key="..\:/Project Home/WeatherWithYou/app/src/main/res/layout/entertainmentfragment.xml" value="0.23278985507246377" />
+        <entry key="..\:/Project Home/WeatherWithYou/app/src/main/res/layout/health.xml" value="0.23278985507246377" />
+        <entry key="..\:/Project Home/WeatherWithYou/app/src/main/res/layout/homefragment.xml" value="0.4184829991281604" />
+        <entry key="..\:/Project Home/WeatherWithYou/app/src/main/res/layout/science.xml" value="0.23278985507246377" />
+        <entry key="..\:/Project Home/WeatherWithYou/app/src/main/res/layout/sportsfragment.xml" value="0.23278985507246377" />
+        <entry key="..\:/Project Home/WeatherWithYou/app/src/main/res/layout/technologyfragment.xml" value="0.23278985507246377" />
       </map>
     </option>
   </component>

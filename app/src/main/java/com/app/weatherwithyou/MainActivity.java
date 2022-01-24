@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     //Subject to change
-    private final static String API_KEY = "c7fc2c810d3d46b28296da926a4f3d5b";
+    String API_KEY = "c7fc2c810d3d46b28296da926a4f3d5b";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
